@@ -48,7 +48,7 @@ Repository ichida quyidagi turdagi loyihalarni topishingiz mumkin:
 1. Repositoryni clone qiling:
 
 ```
-git clone https://github.com/username/repository-name.git
+git clone gh repo clone inoyatulla-dev/Arduino.git
 ```
 
 2. Arduino IDE orqali `.ino` faylni oching
@@ -113,7 +113,7 @@ You can find the following types of projects in this repository:
 1. Clone the repository:
 
 ```
-git clone https://github.com/username/repository-name.git
+git clone gh repo clone inoyatulla-dev/Arduino.git
 ```
 
 2. Open `.ino` file using Arduino IDE
